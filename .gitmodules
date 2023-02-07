@@ -1,15 +1,15 @@
 [submodule "boringssl"]
 	path = boringssl
-	url = https://boringssl.googlesource.com/boringssl
+	url = /var/tmp/download/boringssl
 
 [submodule "pyca.cryptography"]
 	path = pyca-cryptography
-	url = https://github.com/pyca/cryptography.git
+	url = /var/tmp/download/cryptography
 
 [submodule "wycheproof"]
 	path = wycheproof
-	url = https://github.com/google/wycheproof
+	url = /var/tmp/download/wycheproof
 
 [submodule "krb5"]
 	path = krb5
-	url = https://github.com/krb5/krb5
+	url = /var/tmp/download/krb5
